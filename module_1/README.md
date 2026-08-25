@@ -32,7 +32,7 @@ Join [Leland AI Builder Foundations](https://courses.joinleland.com/ai-builder/f
 
 Explore the different output types AI can create — from documents and spreadsheets to visualizations and images.
 
-- [ ] Create documents, spreadsheets, and presentations with AI
+- [X ] Create documents, spreadsheets, and presentations with AI
 - [ ] Create interactive visualizations and artifacts with AI
 - [ ] Create images with AI
 - [ ] Explore more types of AI output
