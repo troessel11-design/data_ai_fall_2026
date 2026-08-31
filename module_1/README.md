@@ -53,9 +53,9 @@ Understand how AI works and build the muscle to use it as more than a search eng
 
 Learn to give AI the right context and the right tool for each job, then make something real with it.
 
-- [ ] Start using voice input
-- [ ] Give AI context through document uploads
-- [ ] Work with image and data uploads
+- [X] Start using voice input
+- [X] Give AI context through document uploads
+- [X] Work with image and data uploads
 
 ---
 
