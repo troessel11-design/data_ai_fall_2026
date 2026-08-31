@@ -63,10 +63,10 @@ Learn to give AI the right context and the right tool for each job, then make so
 
 Plan your days, sort your priorities out loud, and hand one recurring personal task to AI.
 
-- [ ] Connect your calendar
-- [ ] Plan your day with AI
-- [ ] Sort your to-do list by talking it through
-- [ ] Share what you built and learn from others
+- [X] Connect your calendar
+- [X] Plan your day with AI
+- [X] Sort your to-do list by talking it through
+- [X] Share what you built and learn from others
 
 ---
 
