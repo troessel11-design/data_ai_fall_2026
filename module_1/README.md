@@ -43,9 +43,9 @@ Explore the different output types AI can create — from documents and spreadsh
 
 Understand how AI works and build the muscle to use it as more than a search engine.
 
-- [ ] Write a great research prompt
-- [ ] Run a task through AI's different modes
-- [ ] Map where AI can help you in your work and life
+- [X] Write a great research prompt
+- [X] Run a task through AI's different modes
+- [X] Map where AI can help you in your work and life
 
 ---
 
