@@ -87,8 +87,9 @@ Videos: Fun with Pivot Tables - [Part 1](https://www.loom.com/share/fa91b25c2367
 
 ### Step Five: Create Charts & Build a Dashboard
 
-- [X] Review the Annual Report again and make a list of what was reported last year that you will need to report on this year.
-- [X] Add another tab “Dashboard” and copy & paste the charts you have made in the Dashboard tab.
+- [ ] For each pivot table, create a chart next to it that visually represents the data. It is up to you to decide what chart will convey the data the best.
+- [ ] Review the Annual Report again and make a list of what was reported last year that you will need to report on this year.
+- [ ] Add another tab “Dashboard” and copy & paste the charts you have made in the Dashboard tab.
 
 Videos: [Create a Scorecard](https://www.loom.com/share/8d630ef049494b209de63a2e36a42e78)
 
